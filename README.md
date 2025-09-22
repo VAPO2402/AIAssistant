@@ -1,4 +1,4 @@
-### Copy-paste to setup and run (Windows PowerShell)
+   ### Copy-paste to setup and run (Windows PowerShell)
 
 ```powershell
 # Run these in PowerShell from the project folder
@@ -10,7 +10,7 @@ Set-ExecutionPolicy -Scope Process Bypass -Force
 
 ### AI Helper
 
-![AI Helper Screenshot](screenshot.png)
+![AI Interview Assistant Screenshot](screenshot.png)
 
 An on-device assistant that listens to your questions, transcribes them, and answers using AI. It shows text answers in a simple web UI and can speak responses aloud.
 
@@ -102,4 +102,6 @@ See GitHub’s guide to [creating a pull request](https://help.github.com/articl
 ### Acknowledgements
 
 - [Groq](https://groq.com/) — Llama 3 chat completions (free tier)
--
+- [Eel](https://github.com/ChrisKnott/Eel) — Python/JavaScript bridge
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) — microphone transcription
+- [gTTS](https://pypi.org/project/gTTS/) — text-to-speech library
