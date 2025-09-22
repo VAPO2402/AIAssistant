@@ -10,8 +10,6 @@ Set-ExecutionPolicy -Scope Process Bypass -Force
 
 ### AI Helper
 
-![AI Interview Assistant Screenshot](screenshot.png)
-
 An on-device assistant that listens to your questions, transcribes them, and answers using AI. It shows text answers in a simple web UI and can speak responses aloud.
 
 ### Features
